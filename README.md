@@ -7,20 +7,20 @@ The goal of this project was to design and develop a stress-strain extensometer 
 
 # Key Components:
 
-**Stress-Strain Extensometer Sensor**:
+1. **Stress-Strain Extensometer Sensor**:
 
 - Design and Fabrication: The sensor was designed to measure deformation along both x and y axes. It was equipped with high-resolution strain gauges and precision optical elements to ensure accurate data capture.
 
-Measurement Capabilities: The extensometer captures both axial and lateral strains, providing a comprehensive analysis of material behavior under stress. It converts mechanical deformation into electrical signals, which are then processed and analyzed.
+- Measurement Capabilities: The extensometer captures both axial and lateral strains, providing a comprehensive analysis of material behavior under stress. It converts mechanical deformation into electrical signals, which are then processed and analyzed.
 
-Dog Bone-Shaped Test Specimen:
+2. **Dog Bone-Shaped Test Specimen**:
 
-Design: The test specimen was fabricated in the standard dog bone shape, which is designed to have a uniform cross-section in the central region to ensure consistent testing conditions.
+- Design: The test specimen was fabricated in the standard dog bone shape, which is designed to have a uniform cross-section in the central region to ensure consistent testing conditions.
 Material Selection: The specimen was made from a material representative of the type being tested, ensuring that the data obtained is applicable to real-world scenarios.
 
-Video Capture System:
+3. **Video Capture System**:
 
-Purpose: A high-speed camera was employed to capture the deformation of the dog bone-shaped specimen during the loading process. This video data was crucial for visualizing the strain distribution and verifying the accuracy of the extensometer readings.
+- Purpose: A high-speed camera was employed to capture the deformation of the dog bone-shaped specimen during the loading process. This video data was crucial for visualizing the strain distribution and verifying the accuracy of the extensometer readings.
 Integration: The camera was synchronized with the testing setup to ensure that video frames correspond accurately with the load applied and the resulting strain measurements.
 
 Zeiss Quality Suite Software:
