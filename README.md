@@ -1,7 +1,8 @@
 # Stress-Strain-Extensometer-Sensor
 Project Overview:
 The goal of this project was to design and develop a stress-strain extensometer sensor capable of accurately measuring stress and strain along both the x and y directions. This sensor was applied to a dog bone-shaped specimen, a common standard in materials testing, to evaluate its deformation characteristics under load. The system integrates video capture for real-time observation and utilizes Zeiss Quality Suite software for precise data analysis.
-![Extensometer](https://github.com/user-attachments/assets/168dfd74-0a56-45bc-9cfe-c4e379341182)
+
+![images](https://github.com/user-attachments/assets/f0b9643a-ba98-40ac-8436-cacf40a8bd2e)
 
 # Key Components:
 
