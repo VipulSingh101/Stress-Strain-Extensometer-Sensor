@@ -9,19 +9,19 @@ The goal of this project was to design and develop a stress-strain extensometer 
 
 **Stress-Strain Extensometer Sensor**:
 
-Design and Fabrication: The sensor was designed to measure deformation along both x and y axes. It was equipped with high-resolution strain gauges and precision optical elements to ensure accurate data capture.
+- Design and Fabrication: The sensor was designed to measure deformation along both x and y axes. It was equipped with high-resolution strain gauges and precision optical elements to ensure accurate data capture.
 
 - Measurement Capabilities: The extensometer captures both axial and lateral strains, providing a comprehensive analysis of material behavior under stress. It converts mechanical deformation into electrical signals, which are then processed and analyzed.
 
 **Dog Bone-Shaped Test Specimen**:
 
 - Design: The test specimen was fabricated in the standard dog bone shape, which is designed to have a uniform cross-section in the central region to ensure consistent testing conditions.
-Material Selection: The specimen was made from a material representative of the type being tested, ensuring that the data obtained is applicable to real-world scenarios.
+- Material Selection: The specimen was made from a material representative of the type being tested, ensuring that the data obtained is applicable to real-world scenarios.
 
 **Video Capture System**:
 
 - Purpose: A high-speed camera was employed to capture the deformation of the dog bone-shaped specimen during the loading process. This video data was crucial for visualizing the strain distribution and verifying the accuracy of the extensometer readings.
-Integration: The camera was synchronized with the testing setup to ensure that video frames correspond accurately with the load applied and the resulting strain measurements.
+- Integration: The camera was synchronized with the testing setup to ensure that video frames correspond accurately with the load applied and the resulting strain measurements.
 
 **Zeiss Quality Suite Software**:
 
@@ -33,16 +33,16 @@ Integration: The camera was synchronized with the testing setup to ensure that v
 
 **Sensor Calibration**:
 
-The extensometer sensor was calibrated using known reference loads and deformation measurements to ensure accuracy. Calibration procedures were rigorously followed to align the sensor’s readings with industry standards.
+- The extensometer sensor was calibrated using known reference loads and deformation measurements to ensure accuracy. Calibration procedures were rigorously followed to align the sensor’s readings with industry standards.
 
 **Testing Procedure**:
 
-The dog bone-shaped specimen was subjected to controlled loading conditions. The extensometer sensor recorded data on stress and strain along the x and y axes throughout the loading process.
+- The dog bone-shaped specimen was subjected to controlled loading conditions. The extensometer sensor recorded data on stress and strain along the x and y axes throughout the loading process.
 Simultaneously, the video capture system recorded the specimen’s deformation to provide a visual reference for the recorded data.
 
 **Data Collection and Analysis**:
 
-Data from the sensor and video capture system were synchronized and imported into the Zeiss Quality Suite software.
+- Data from the sensor and video capture system were synchronized and imported into the Zeiss Quality Suite software.
 The software was used to generate detailed stress-strain curves, which were analyzed to understand the material’s behavior under stress. The video data provided visual confirmation of the strain patterns observed.
 
 # Results:
