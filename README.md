@@ -42,8 +42,8 @@ The software was used to generate detailed stress-strain curves, which were anal
 
 
 
-https://github.com/user-attachments/assets/2a0500de-c2d2-4811-a868-16b118fe2d64
 
+https://github.com/user-attachments/assets/6989e2e1-4b76-4fb3-b65f-de4988e2139d
 
 
 
