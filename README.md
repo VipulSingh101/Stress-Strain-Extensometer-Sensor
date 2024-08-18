@@ -19,7 +19,6 @@ Integration: The camera was synchronized with the testing setup to ensure that v
 Zeiss Quality Suite Software:
 
 
-https://github.com/user-attachments/assets/ac5382bb-1cb8-4c8b-918d-bd8a852d380d
 
 
 Functionality: The Zeiss Quality Suite software was used for analyzing the data obtained from the extensometer and the video capture system. It provides advanced tools for measuring and interpreting stress and strain data.
@@ -40,7 +39,26 @@ Data from the sensor and video capture system were synchronized and imported int
 The software was used to generate detailed stress-strain curves, which were analyzed to understand the material’s behavior under stress. The video data provided visual confirmation of the strain patterns observed.
 # Results:
 
+
+
+
+https://github.com/user-attachments/assets/2a0500de-c2d2-4811-a868-16b118fe2d64
+
+
+
+
+https://github.com/user-attachments/assets/77e25cb4-4524-4305-8ee2-adaa5e5caf34
+
+
+
+https://github.com/user-attachments/assets/da581eab-a427-4c31-8019-00a48bcde02c
+
+
+
+
+
 Stress-Strain Curves: The analysis produced stress-strain curves showing the material’s response to applied loads. These curves were used to determine key properties such as Young’s modulus, yield strength, and ultimate tensile strength.
+
 Deformation Patterns: Video analysis revealed detailed deformation patterns, providing insights into how the material deforms under stress and verifying the extensometer’s accuracy.
 Accuracy and Precision: The integration of the extensometer sensor with video capture and Zeiss Quality Suite software ensured high accuracy and precision in measuring stress and strain.
 Conclusion:
