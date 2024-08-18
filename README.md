@@ -13,34 +13,34 @@ The goal of this project was to design and develop a stress-strain extensometer 
 
 - Measurement Capabilities: The extensometer captures both axial and lateral strains, providing a comprehensive analysis of material behavior under stress. It converts mechanical deformation into electrical signals, which are then processed and analyzed.
 
-2. **Dog Bone-Shaped Test Specimen**:
+2.**Dog Bone-Shaped Test Specimen**:
 
 - Design: The test specimen was fabricated in the standard dog bone shape, which is designed to have a uniform cross-section in the central region to ensure consistent testing conditions.
 Material Selection: The specimen was made from a material representative of the type being tested, ensuring that the data obtained is applicable to real-world scenarios.
 
-3. **Video Capture System**:
+3.**Video Capture System**:
 
 - Purpose: A high-speed camera was employed to capture the deformation of the dog bone-shaped specimen during the loading process. This video data was crucial for visualizing the strain distribution and verifying the accuracy of the extensometer readings.
 Integration: The camera was synchronized with the testing setup to ensure that video frames correspond accurately with the load applied and the resulting strain measurements.
 
-Zeiss Quality Suite Software:
+4.**Zeiss Quality Suite Software**:
 
-Functionality: The Zeiss Quality Suite software was used for analyzing the data obtained from the extensometer and the video capture system. It provides advanced tools for measuring and interpreting stress and strain data.
-Analysis: The software allowed for precise measurement of deformation along both x and y directions, generating detailed stress-strain curves and visual representations of the strain distribution.
-Visualization: The integration of video data with the software enabled comprehensive analysis, including the ability to track strain visually and correlate it with quantitative measurements.
+- Functionality: The Zeiss Quality Suite software was used for analyzing the data obtained from the extensometer and the video capture system. It provides advanced tools for measuring and interpreting stress and strain data.
+- Analysis: The software allowed for precise measurement of deformation along both x and y directions, generating detailed stress-strain curves and visual representations of the strain distribution.
+- Visualization: The integration of video data with the software enabled comprehensive analysis, including the ability to track strain visually and correlate it with quantitative measurements.
 
 # Project Execution:
 
-Sensor Calibration:
+1.**Sensor Calibration**:
 
 The extensometer sensor was calibrated using known reference loads and deformation measurements to ensure accuracy. Calibration procedures were rigorously followed to align the sensor’s readings with industry standards.
 
-Testing Procedure:
+2.**Testing Procedure**:
 
 The dog bone-shaped specimen was subjected to controlled loading conditions. The extensometer sensor recorded data on stress and strain along the x and y axes throughout the loading process.
 Simultaneously, the video capture system recorded the specimen’s deformation to provide a visual reference for the recorded data.
 
-Data Collection and Analysis:
+3.**Data Collection and Analysis**:
 
 Data from the sensor and video capture system were synchronized and imported into the Zeiss Quality Suite software.
 The software was used to generate detailed stress-strain curves, which were analyzed to understand the material’s behavior under stress. The video data provided visual confirmation of the strain patterns observed.
@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/da581eab-a427-4c31-8019-00a48bcde02c
 
 
 
-Stress-Strain Curves: The analysis produced stress-strain curves showing the material’s response to applied loads. These curves were used to determine key properties such as Young’s modulus, yield strength, and ultimate tensile strength.
+**Stress-Strain Curves**: The analysis produced stress-strain curves showing the material’s response to applied loads. These curves were used to determine key properties such as Young’s modulus, yield strength, and ultimate tensile strength.
 
 Deformation Patterns: Video analysis revealed detailed deformation patterns, providing insights into how the material deforms under stress and verifying the extensometer’s accuracy.
 
