@@ -18,6 +18,10 @@ Purpose: A high-speed camera was employed to capture the deformation of the dog 
 Integration: The camera was synchronized with the testing setup to ensure that video frames correspond accurately with the load applied and the resulting strain measurements.
 Zeiss Quality Suite Software:
 
+
+https://github.com/user-attachments/assets/ac5382bb-1cb8-4c8b-918d-bd8a852d380d
+
+
 Functionality: The Zeiss Quality Suite software was used for analyzing the data obtained from the extensometer and the video capture system. It provides advanced tools for measuring and interpreting stress and strain data.
 Analysis: The software allowed for precise measurement of deformation along both x and y directions, generating detailed stress-strain curves and visual representations of the strain distribution.
 Visualization: The integration of video data with the software enabled comprehensive analysis, including the ability to track strain visually and correlate it with quantitative measurements.
