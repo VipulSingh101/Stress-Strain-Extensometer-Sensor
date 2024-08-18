@@ -4,7 +4,6 @@ The goal of this project was to design and develop a stress-strain extensometer 
 
 
 
-![Uploading resize-17239721496119188Extensometer.jpeg…]()
 
 # Key Components:
 
