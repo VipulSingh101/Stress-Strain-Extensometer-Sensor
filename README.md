@@ -3,24 +3,20 @@ Project Overview:
 The goal of this project was to design and develop a stress-strain extensometer sensor capable of accurately measuring stress and strain along both the x and y directions. This sensor was applied to a dog bone-shaped specimen, a common standard in materials testing, to evaluate its deformation characteristics under load. The system integrates video capture for real-time observation and utilizes Zeiss Quality Suite software for precise data analysis.
 
 Key Components:
-
-Stress-Strain Extensometer Sensor:
-
-Design and Fabrication: The sensor was designed to measure deformation along both x and y axes. It was equipped with high-resolution strain gauges and precision optical elements to ensure accurate data capture.
-Measurement Capabilities: The extensometer captures both axial and lateral strains, providing a comprehensive analysis of material behavior under stress. It converts mechanical deformation into electrical signals, which are then processed and analyzed.
-Dog Bone-Shaped Test Specimen:
-
-Design: The test specimen was fabricated in the standard dog bone shape, which is designed to have a uniform cross-section in the central region to ensure consistent testing conditions.
-Material Selection: The specimen was made from a material representative of the type being tested, ensuring that the data obtained is applicable to real-world scenarios.
-Video Capture System:
-
-Purpose: A high-speed camera was employed to capture the deformation of the dog bone-shaped specimen during the loading process. This video data was crucial for visualizing the strain distribution and verifying the accuracy of the extensometer readings.
-Integration: The camera was synchronized with the testing setup to ensure that video frames correspond accurately with the load applied and the resulting strain measurements.
-Zeiss Quality Suite Software:
-
-Functionality: The Zeiss Quality Suite software was used for analyzing the data obtained from the extensometer and the video capture system. It provides advanced tools for measuring and interpreting stress and strain data.
-Analysis: The software allowed for precise measurement of deformation along both x and y directions, generating detailed stress-strain curves and visual representations of the strain distribution.
-Visualization: The integration of video data with the software enabled comprehensive analysis, including the ability to track strain visually and correlate it with quantitative measurements.
+1.Stress-Strain Extensometer Sensor:
+  Design and Fabrication: The sensor was designed to measure deformation along both x and y axes. It was equipped with high-resolution strain gauges and precision optical      elements to ensure accurate data capture.
+  Measurement Capabilities: The extensometer captures both axial and lateral strains, providing a comprehensive analysis of material behavior under stress. It converts         mechanical deformation into electrical signals, which are then processed and analyzed.
+2.Dog Bone-Shaped Test Specimen:
+  Design: The test specimen was fabricated in the standard dog bone shape, which is designed to have a uniform cross-section in the central region to ensure consistent         testing conditions.
+  Material Selection: The specimen was made from a material representative of the type being tested, ensuring that the data obtained is applicable to real-world scenarios.
+3.Video Capture System:
+  Purpose: A high-speed camera was employed to capture the deformation of the dog bone-shaped specimen during the loading process. This video data was crucial for              visualizing the strain distribution and verifying the accuracy of the extensometer readings.
+  Integration: The camera was synchronized with the testing setup to ensure that video frames correspond accurately with the load applied and the resulting strain              measurements.
+4.Zeiss Quality Suite Software:
+  Functionality: The Zeiss Quality Suite software was used for analyzing the data obtained from the extensometer and the video capture system. It provides advanced tools for   measuring and interpreting stress and strain data.
+  Analysis: The software allowed for precise measurement of deformation along both x and y directions, generating detailed stress-strain curves and visual representations of   the strain distribution.
+  Visualization: The integration of video data with the software enabled comprehensive analysis, including the ability to track strain visually and correlate it with         
+  quantitative measurements.
 Project Execution:
 
 Sensor Calibration:
