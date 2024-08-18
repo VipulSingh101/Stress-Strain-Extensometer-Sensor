@@ -71,19 +71,3 @@ Conclusion:
 
 The developed stress-strain extensometer sensor, coupled with video capture and Zeiss Quality Suite software, successfully provided accurate and comprehensive measurements of stress and strain in a dog bone-shaped specimen. This system is valuable for materials testing, providing both quantitative and qualitative insights into material behavior under stress.
 
-Future Work:
-
-Sensor Optimization: Further development could focus on enhancing the sensor’s sensitivity and range for a broader range of materials.
-Software Integration: Exploring additional software features for more advanced data analysis and visualization.
-References:
-
-Technical specifications and calibration procedures for the extensometer sensor.
-Details on the Zeiss Quality Suite software and its applications in materials testing.
-Relevant literature on stress-strain testing methods and standards.
-
-Appendices:
-
-Appendix A: Calibration data and procedures.
-Appendix B: Video snapshots and deformation analysis.
-Appendix C: Stress-strain curves and analysis results.
-This project successfully demonstrates the application of an extensometer sensor in conjunction with advanced software and video analysis for detailed material testing and characterization.
