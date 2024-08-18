@@ -9,7 +9,7 @@ The goal of this project was to design and develop a stress-strain extensometer 
 
 1. **Stress-Strain Extensometer Sensor**:
 
--  Design and Fabrication: The sensor was designed to measure deformation along both x and y axes. It was equipped with high-resolution strain gauges and precision optical elements to ensure accurate data capture.
+  - Design and Fabrication: The sensor was designed to measure deformation along both x and y axes. It was equipped with high-resolution strain gauges and precision optical elements to ensure accurate data capture.
 
 - Measurement Capabilities: The extensometer captures both axial and lateral strains, providing a comprehensive analysis of material behavior under stress. It converts mechanical deformation into electrical signals, which are then processed and analyzed.
 
