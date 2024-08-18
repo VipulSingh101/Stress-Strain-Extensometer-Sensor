@@ -50,7 +50,7 @@ The software was used to generate detailed stress-strain curves, which were anal
 
 
 
-Along x direction
+## Along x direction
 
 
 https://github.com/user-attachments/assets/6989e2e1-4b76-4fb3-b65f-de4988e2139d
