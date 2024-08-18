@@ -50,19 +50,19 @@ The software was used to generate detailed stress-strain curves, which were anal
 
 
 
-## Along x direction
+### Along x direction
 
 
 https://github.com/user-attachments/assets/6989e2e1-4b76-4fb3-b65f-de4988e2139d
 
 
-Along y direction
+### Along y direction
 
 
 https://github.com/user-attachments/assets/77e25cb4-4524-4305-8ee2-adaa5e5caf34
 
 
-Displacement point
+### Displacement point
 
 
 https://github.com/user-attachments/assets/da581eab-a427-4c31-8019-00a48bcde02c
